@@ -1,0 +1,10 @@
+@font-face {
+    font-family: orbitron;
+    src: url(/fonts/Orbitron-Regular.ttf);
+}
+
+header{  
+    font-family: orbitron;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
